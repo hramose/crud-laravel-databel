@@ -1,0 +1,96 @@
+body {
+    font-family: 'Lato';
+    font-weight: 300;
+    background-color: #8a0606;
+}
+.fa-btn {
+    margin-right: 6px;
+}
+.container {
+    width: 95%;
+}
+
+#datatable_paginate{
+	width: auto;
+    float: right;
+    margin: 15px 5px 0 0;
+    padding: 0;
+}
+
+#datatable_length{
+	width: auto;
+    float: left;
+    margin: 15px 5px 0 0;
+    padding: 0;
+     font-size: 90%
+}
+#datatable_length label{
+	width: auto;
+	float: left
+}
+
+#datatable_info{
+	width: auto;
+    float: left;
+    margin-top: 0;
+    padding: 0;
+    font-size: 90%
+}
+
+#datatable_info label{
+	width: auto;
+	float: left;
+}
+
+#mapCanvas{
+  height: 240px
+}
+
+
+.tableVisitas tbody tr {
+cursor: pointer;
+}
+
+#toptools{
+    margin-top: 15px;
+  }
+
+  @media (max-width: 768px) {
+#toptools{
+    margin-top: 5px;
+  }
+}
+
+table.dataTable thead tr{
+    font-size: 13px;
+}
+
+table.dataTable tbody th, table.dataTable tbody td{
+    font-size: 13px;
+}
+
+.btn-group>.btn+.dropdown-toggle {
+    height: 34px;
+}
+
+#filters{
+    width: 100%;
+    background: #f1f1f1;
+    /* padding: 5px; */
+    margin: 5px 0px 8px 10px;
+    border: 1px solid #dcdcdc;
+}
+
+#filters .form-control{
+    height: 30px;
+}
+
+#filters #search-form{
+display: inline-flex;
+    padding: 5px;
+    padding-bottom: 0;
+}
+
+#title b{
+  font-size:150%;
+}
