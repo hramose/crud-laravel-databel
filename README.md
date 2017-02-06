@@ -22,7 +22,7 @@ php artisan db:seed --class=PersonsTableSeeder
 - Datatables
 - Export to excel file
 - Ajax Search
-- Dynamic Statics Graphs by Months
+- Dynamic Stats Graphs by Months
 
 More pro features and developments requests, please contact us to info@databel.com.ar
 
