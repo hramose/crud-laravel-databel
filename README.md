@@ -24,7 +24,8 @@ php artisan db:seed --class=PersonsTableSeeder
 - Ajax Search
 - Dynamic Statics Graphs by Months
 
-More details and development request: contact us to info@databel.com.ar
+More pro features and developments requests, please contact us to info@databel.com.ar
+
 ![alt tag](http://i.imgur.com/eT2nCSO.png)
 ![alt tag](http://i.imgur.com/Oj3I7Zi.png)
 ![alt tag](http://i.imgur.com/zToiIKU.png)
