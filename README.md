@@ -2,7 +2,6 @@
 Dynamic Crud admin panel for Backend starter. Starter admin panel for your projects. Bootsrap Responsive design. search and easy navigation. Using Yajra/laravel Datatables.
 
 #Installation
-
 1.- Download or clone this repo
 2.- Configure .env file
 
@@ -15,3 +14,12 @@ php artisan migrate --path=database/migrations/persons
 php artisan db:seed --class=PersonsTableSeeder
 ```
 5.- Visit Home path
+
+#Features
+- Bootstrap 3
+- Datatables
+- Export to excel file
+- Ajax Search
+- Dynamic Statics Graphs by Months
+
+More details and development request: contact us to info@databel.com.ar
