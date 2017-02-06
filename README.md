@@ -7,7 +7,7 @@ Dynamic Crud admin panel for Backend starter. Starter admin panel for your proje
 1.- Download or clone this repo
 2.- Configure .env file
 
-3.- Create table
+3.- Create table (or import persons.sql file)
 ```php
 php artisan migrate --path=database/migrations/persons
 ```
